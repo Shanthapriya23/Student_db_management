@@ -1,0 +1,33 @@
+h1{
+    color:#207506;
+    font-size:50px;
+  }
+  #header{
+    font-style: italic;
+    font-weight: bolder;
+    vertical-align: middle;
+  }
+  p,h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#473d9f;
+    display: block;
+  }
+  label{
+    font-size:25px;
+    font-family:verdana;
+  }
+  img{float:left;}
+  form{
+    color:#971DC3;
+  }
+  #button{
+    color:green;
+    height:25px;
+    width:100 px;
+  }
+  body{
+    background-color:#FFFFCC;
+  }
+  td,table{
+    border:3px solid rgb(67, 42, 165);
+  }
